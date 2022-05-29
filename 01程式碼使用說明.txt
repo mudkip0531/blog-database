@@ -1,0 +1,5 @@
+請將
+ht.rar (解壓縮到xampp htdoct資料夾內)
+解壓縮至xampp htdoct資料夾內
+並建造一個為final名稱的資料庫
+匯入final.sql
